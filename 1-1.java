@@ -1,1 +1,3 @@
-//자바 HTML 다 헷갈릴거같은데 큰일났네요...
+Scanner scanner = new Scanner(System.in);
+
+System.out.prinln("간단한 콘솔 계산기 프로그램");
